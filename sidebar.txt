@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ukh:home|Door43 (ukh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ukh|d43-ukh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ukh/archive/master.zip|d43-ukh.zip]]
+
+**Recent Changes**
+{{changes>ns = ukh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ukh|Ethnologue data]]
+
